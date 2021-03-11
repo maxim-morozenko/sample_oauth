@@ -1,0 +1,14 @@
+{
+    "name": "OAuth",
+    "alias": "oauth",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\OAuth\\Providers\\OAuthServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
